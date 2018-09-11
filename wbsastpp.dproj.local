@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018/09/11 08:57:12.687,=C:\development\ccsolutions\astpp-webservice\trunk\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2018/09/11 08:57:12.987,=C:\development\ccsolutions\astpp-webservice\trunk\WebModuleUnit1.pas</Transaction>
+    <Transaction>2018/09/11 08:57:13.363,=C:\development\ccsolutions\astpp-webservice\trunk\ServerConst1.pas</Transaction>
+    <Transaction>2018/09/11 08:57:13.452,=C:\development\ccsolutions\astpp-webservice\trunk\js\base64.js</Transaction>
+    <Transaction>2018/09/11 08:57:13.463,=C:\development\ccsolutions\astpp-webservice\trunk\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2018/09/11 08:57:13.476,=C:\development\ccsolutions\astpp-webservice\trunk\js\json2.js</Transaction>
+    <Transaction>2018/09/11 08:57:13.495,=C:\development\ccsolutions\astpp-webservice\trunk\js\callbackframework.js</Transaction>
+    <Transaction>2018/09/11 08:57:13.511,=C:\development\ccsolutions\astpp-webservice\trunk\js\serverfunctions.js</Transaction>
+    <Transaction>2018/09/11 08:57:13.530,=C:\development\ccsolutions\astpp-webservice\trunk\js\base64-min.js</Transaction>
+    <Transaction>2018/09/11 08:57:13.550,=C:\development\ccsolutions\astpp-webservice\trunk\js\json2-min.js</Transaction>
+    <Transaction>2018/09/11 08:57:13.576,=C:\development\ccsolutions\astpp-webservice\trunk\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2018/09/11 08:57:13.600,=C:\development\ccsolutions\astpp-webservice\trunk\js\callbackframework-min.js</Transaction>
+    <Transaction>2018/09/11 08:57:13.629,=C:\development\ccsolutions\astpp-webservice\trunk\js\connection.js</Transaction>
+    <Transaction>2018/09/11 08:57:13.658,=C:\development\ccsolutions\astpp-webservice\trunk\js\serverfunctioninvoker.js</Transaction>
+    <Transaction>2018/09/11 08:57:13.686,=C:\development\ccsolutions\astpp-webservice\trunk\css\main.css</Transaction>
+    <Transaction>2018/09/11 08:57:13.725,=C:\development\ccsolutions\astpp-webservice\trunk\css\serverfunctioninvoker.css</Transaction>
+    <Transaction>2018/09/11 08:57:13.767,=C:\development\ccsolutions\astpp-webservice\trunk\templates\reversestring.html</Transaction>
+    <Transaction>2018/09/11 08:57:13.811,=C:\development\ccsolutions\astpp-webservice\trunk\templates\serverfunctioninvoker.html</Transaction>
+    <Transaction>2018/09/11 08:57:13.852,=C:\development\ccsolutions\astpp-webservice\trunk\images\collapse.png</Transaction>
+    <Transaction>2018/09/11 08:57:13.903,=C:\development\ccsolutions\astpp-webservice\trunk\images\expand.png</Transaction>
+    <Transaction>2018/09/11 08:58:25.504,C:\development\ccsolutions\astpp-webservice\trunk\u_srvmodule.pas=C:\development\ccsolutions\astpp-webservice\trunk\WebModuleUnit1.pas</Transaction>
+    <Transaction>2018/09/11 08:58:25.504,C:\development\ccsolutions\astpp-webservice\trunk\u_srvmodule.dfm=C:\development\ccsolutions\astpp-webservice\trunk\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2018/09/11 08:58:39.537,C:\development\ccsolutions\astpp-webservice\trunk\u_frm_srvmethods.dfm=C:\development\ccsolutions\astpp-webservice\trunk\ServerMethodsUnit1.dfm</Transaction>
+    <Transaction>2018/09/11 08:58:39.537,C:\development\ccsolutions\astpp-webservice\trunk\u_frm_srvmethods.pas=C:\development\ccsolutions\astpp-webservice\trunk\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2018/09/11 08:59:12.011,C:\development\ccsolutions\astpp-webservice\trunk\u_srvconst.pas=C:\development\ccsolutions\astpp-webservice\trunk\ServerConst1.pas</Transaction>
+    <Transaction>2018/09/11 08:59:25.947,C:\development\ccsolutions\astpp-webservice\trunk\wbsastpp.dproj=C:\development\ccsolutions\astpp-webservice\trunk\trunk.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
